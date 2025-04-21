@@ -1,0 +1,37 @@
+
+.register-card {
+    margin-bottom: 15px;
+}
+
+.notelist-title {
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.notelist-info {
+    width: 99%;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.blue-info {
+    background: #D1ECF1;
+    width: 99.8%;
+    margin: 15px auto;
+}
+
+.blue-info-h4 {
+    color: black;
+    font-weight: 300;
+    font-size: 16px;
+    text-decoration: underline;
+}
+.blue-info-p {
+    text-align: left; 
+    
+}
+.blue-info-span {
+    color: red;
+    text-align: left;
+    font-weight: 200;
+}

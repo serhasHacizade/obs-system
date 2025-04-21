@@ -1,0 +1,32 @@
+.container {
+    display: block;
+    margin: 10px;
+}
+
+.info {
+    border: 1px solid #228E3B;
+    width: 100%;
+    background: #28A745;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 7px 0;
+}
+
+span {
+    padding-left: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 12px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}

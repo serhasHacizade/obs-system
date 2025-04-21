@@ -1,0 +1,29 @@
+.card {
+    height: 50px;
+    padding: 30px 20px;
+    display: flex;
+    align-items: center;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.card > * {
+    color: white;
+}
+
+.card svg {
+    font-size: 40px;
+    padding-right: 15px;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: column;
+}
+
+h4 {
+    margin-left: 0;
+}
+.card-info {
+    text-align: left;
+}

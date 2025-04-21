@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.upper-left {
+    display: flex;
+    align-items: center;
+}
+.upper-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 40%;
+}
+.upper-right > * {
+    margin-right: 8px;
+}
+
+
+header svg {
+    color: white;
+    font-size: 23px;
+    margin-left: 15px;
+}
+
+h3 {
+    color: white;
+    margin-left: 5px;
+}
+.profile-img {
+    border-radius: 50%;
+}

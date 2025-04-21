@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #121e2d;
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 55px;
+  width: 55px;
+  padding: 5px 5px 5px 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 20pt;
+}
+h6 {
+  color: white;
+  font-size: 13pt;
+  padding-right: 10px;
+}
